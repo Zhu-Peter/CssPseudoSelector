@@ -3,6 +3,14 @@ footer:hover {
     background-color: yellow;
 }
 
-article > h1 :active{
+article>h1:hover{
+    font-size: 70px;
+}
+
+button:active{
     background-color: aqua;
+}
+
+footer:active{
+    background-color: aquamarine;
 }
